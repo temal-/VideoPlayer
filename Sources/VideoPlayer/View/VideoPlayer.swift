@@ -9,6 +9,7 @@
 import SwiftUI
 
 @available(iOS 13, *)
+@available(tvOS 13, *)
 public struct VideoPlayer: UIViewRepresentable {
     
     public enum State {
